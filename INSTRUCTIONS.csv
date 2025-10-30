@@ -1,0 +1,5 @@
+INSTRUCTION, FILE
+"Write current date", date.txt
+"Get weather", weather.txt
+"Get country data:greece", country.txt
+"Get Jokes", jokes.txt
